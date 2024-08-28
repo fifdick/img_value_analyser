@@ -2,7 +2,6 @@ import streamlit as st
 from PIL import Image
 import numpy as np
 from matplotlib import pyplot as plt
-import cv2
 
 
 # define a function to analyse grayscale values of image
