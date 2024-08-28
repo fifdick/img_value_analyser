@@ -1,4 +1,4 @@
 numpy
-matplotlib
+matplotlib.pyplot
 Image
 opencv-python
